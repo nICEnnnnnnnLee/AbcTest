@@ -1,2 +1,2 @@
-2 2019-09-16 14:14 /cloud/history/delete
-该命令只能本地执行
+3 2019-09-17 18:18 /onliner/status/upload
+online状态尝试上传
